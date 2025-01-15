@@ -33,41 +33,65 @@ python custom_transformer.py
 
 
 ## CNN Training Logs
-------------------------------------------------------------
-Train Epoch: 0 [0/60000 (0%)]   Loss: 2.325208
-Train Epoch: 0 [6400/60000 (11%)]       Loss: 2.274367
-Train Epoch: 0 [12800/60000 (21%)]      Loss: 1.907985
-Train Epoch: 0 [19200/60000 (32%)]      Loss: 1.327139
-Train Epoch: 0 [25600/60000 (43%)]      Loss: 1.174398
-Train Epoch: 0 [32000/60000 (53%)]      Loss: 0.864994
-Train Epoch: 0 [38400/60000 (64%)]      Loss: 0.571327
-Train Epoch: 0 [44800/60000 (75%)]      Loss: 0.953660
-Train Epoch: 0 [51200/60000 (85%)]      Loss: 0.636651
-Train Epoch: 0 [57600/60000 (96%)]      Loss: 0.530928
+Train Epoch: 0 [0/60000 (0%)]	Loss: 0.063750
+Train Epoch: 0 [6400/60000 (11%)]	Loss: 0.095912
+Train Epoch: 0 [12800/60000 (21%)]	Loss: 0.211452
+Train Epoch: 0 [19200/60000 (32%)]	Loss: 0.176659
+Train Epoch: 0 [25600/60000 (43%)]	Loss: 0.123121
+Train Epoch: 0 [32000/60000 (53%)]	Loss: 0.300204
+Train Epoch: 0 [38400/60000 (64%)]	Loss: 0.312506
+Train Epoch: 0 [44800/60000 (75%)]	Loss: 0.135378
+Train Epoch: 0 [51200/60000 (85%)]	Loss: 0.061804
+Train Epoch: 0 [57600/60000 (96%)]	Loss: 0.139258
 
-Train Epoch: 1 [0/60000 (0%)]   Loss: 0.609520
-Train Epoch: 1 [6400/60000 (11%)]       Loss: 0.622090
-Train Epoch: 1 [12800/60000 (21%)]      Loss: 0.585681
-Train Epoch: 1 [19200/60000 (32%)]      Loss: 0.705563
-Train Epoch: 1 [25600/60000 (43%)]      Loss: 0.519324
-Train Epoch: 1 [32000/60000 (53%)]      Loss: 0.742831
-Train Epoch: 1 [38400/60000 (64%)]      Loss: 0.437431
-Train Epoch: 1 [44800/60000 (75%)]      Loss: 0.655131
-Train Epoch: 1 [51200/60000 (85%)]      Loss: 0.337699
-Train Epoch: 1 [57600/60000 (96%)]      Loss: 0.490384
+Train Epoch: 1 [0/60000 (0%)]	Loss: 0.126188
+Train Epoch: 1 [6400/60000 (11%)]	Loss: 0.145329
+Train Epoch: 1 [12800/60000 (21%)]	Loss: 0.160962
+Train Epoch: 1 [19200/60000 (32%)]	Loss: 0.060585
+Train Epoch: 1 [25600/60000 (43%)]	Loss: 0.172602
+Train Epoch: 1 [32000/60000 (53%)]	Loss: 0.225173
+Train Epoch: 1 [38400/60000 (64%)]	Loss: 0.188731
+Train Epoch: 1 [44800/60000 (75%)]	Loss: 0.163453
+Train Epoch: 1 [51200/60000 (85%)]	Loss: 0.264085
+Train Epoch: 1 [57600/60000 (96%)]	Loss: 0.057970
 
-Train Epoch: 2 [0/60000 (0%)]   Loss: 0.543615
-Train Epoch: 2 [6400/60000 (11%)]       Loss: 0.240464
-Train Epoch: 2 [12800/60000 (21%)]      Loss: 0.619621
-Train Epoch: 2 [19200/60000 (32%)]      Loss: 0.399880
-Train Epoch: 2 [25600/60000 (43%)]      Loss: 0.423521
+Train Epoch: 2 [0/60000 (0%)]	Loss: 0.170645
+Train Epoch: 2 [6400/60000 (11%)]	Loss: 0.076135
+Train Epoch: 2 [12800/60000 (21%)]	Loss: 0.046482
+Train Epoch: 2 [19200/60000 (32%)]	Loss: 0.084306
+Train Epoch: 2 [25600/60000 (43%)]	Loss: 0.176785
+Train Epoch: 2 [32000/60000 (53%)]	Loss: 0.176272
+Train Epoch: 2 [38400/60000 (64%)]	Loss: 0.068932
+Train Epoch: 2 [44800/60000 (75%)]	Loss: 0.263448
+Train Epoch: 2 [51200/60000 (85%)]	Loss: 0.137503
+Train Epoch: 2 [57600/60000 (96%)]	Loss: 0.195460
+
+Train Epoch: 3 [0/60000 (0%)]	Loss: 0.066153
+Train Epoch: 3 [6400/60000 (11%)]	Loss: 0.094050
+Train Epoch: 3 [12800/60000 (21%)]	Loss: 0.043584
+Train Epoch: 3 [19200/60000 (32%)]	Loss: 0.026709
+Train Epoch: 3 [25600/60000 (43%)]	Loss: 0.093872
+Train Epoch: 3 [32000/60000 (53%)]	Loss: 0.097646
+Train Epoch: 3 [38400/60000 (64%)]	Loss: 0.063766
+Train Epoch: 3 [44800/60000 (75%)]	Loss: 0.106863
+Train Epoch: 3 [51200/60000 (85%)]	Loss: 0.164193
+Train Epoch: 3 [57600/60000 (96%)]	Loss: 0.079997
+
+Train Epoch: 4 [0/60000 (0%)]	Loss: 0.092704
+Train Epoch: 4 [6400/60000 (11%)]	Loss: 0.026844
+Train Epoch: 4 [12800/60000 (21%)]	Loss: 0.160942
+Train Epoch: 4 [19200/60000 (32%)]	Loss: 0.100325
+Train Epoch: 4 [25600/60000 (43%)]	Loss: 0.186581
+Train Epoch: 4 [32000/60000 (53%)]	Loss: 0.087199
+Train Epoch: 4 [38400/60000 (64%)]	Loss: 0.111526
+Train Epoch: 4 [44800/60000 (75%)]	Loss: 0.062025
+Train Epoch: 4 [51200/60000 (85%)]	Loss: 0.211661
+Train Epoch: 4 [57600/60000 (96%)]	Loss: 0.120458
+
 
 ## Transformer Training Logs
 
-| Epoch | Train Loss |
-|-------|------------|
-| 1     |            |
-| 2     |            |
-| 3     |            |
-| 4     |            |
-| 5     |            |
+Batch 0, Loss: 31741.2227
+Batch 10, Loss: 29152.0977
+
+Epoch completed. Average loss: 29483.1964
